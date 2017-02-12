@@ -1,5 +1,5 @@
 {
-  "name": "ember-localstorage-adapter",
+  "name": "@dalane/ember-localstorage-adapter",
   "version": "1.0.0",
   "description": "Store your Ember application data in LocalStorage.",
   "directories": {
