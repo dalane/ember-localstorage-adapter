@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: '@dalane/ember-localstorage-adapter'
+  name: 'ember-localstorage-adapter'
 };

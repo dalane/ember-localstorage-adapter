@@ -1,3 +1,3 @@
-import LSAdapter from '@dalane/ember-localstorage-adapter/adapters/ls-adapter';
+import LSAdapter from 'ember-localstorage-adapter/adapters/ls-adapter';
 
 export default LSAdapter;
